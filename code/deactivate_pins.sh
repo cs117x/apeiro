@@ -1,0 +1,1 @@
+mysql -u dylan -p BigCats123! -D apeiro -e "UPDATE users SET pin_active = 0"

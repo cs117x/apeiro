@@ -1,0 +1,11 @@
+#pin-box {
+	border-top:rgb(175, 194, 203) 10px solid;
+	background-color: rgba(239, 239, 240, 0.36);
+	width:150px;
+	height:auto;
+	top:250px;
+	padding:25px;
+	z-index:5;
+	position:relative;
+	margin:auto;
+}
